@@ -1,6 +1,6 @@
 # Ruubby PA app
 
-react-native app
+This is react-native service app.
 
 Install deps
 
